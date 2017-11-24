@@ -16,7 +16,9 @@ chmod 777 l2tp_pptp.sh && l2tp_pptp.sh
 
 # 添加vpn账号密码
 
-打开浏览器 ，输入你的服务器IP
+> 打开浏览器 ，输入你的服务器IP
+
+
 ![](https://github.com/wfcz10086/phpvpn/blob/master/jpg/login.jpg?raw=true)
 ```
 输入默认账号：admin
