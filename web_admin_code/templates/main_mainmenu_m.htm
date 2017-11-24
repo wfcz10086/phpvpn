@@ -1,0 +1,24 @@
+{BEGIN mainmenu_block}
+	<ul class="rnr-b-vmenu tree {$menustyle}" data-menuname="{$menuName}">
+{BEGIN menu_collapse_expand_all}
+	<li class="manage">
+		<div>
+			<a href="#"><img alt="*" src="images/plus.gif">
+				<span class=expand>全部展开 扩大树形菜单中的所有菜单项</span>
+				<span class="hide" style="display:none;">全部折叠 折叠树形菜单中的所有菜单项</span>
+			</a>
+		</div>
+	</li>
+{END menu_collapse_expand_all}
+	{BEGIN item1_menulink}
+	<li id="item1" class="{$item1_groupclass} {$item1_current} menuLeaf" level=1>
+			<div>
+<a {$item1_menulink_attrs} class="{$item1_current}">{$item1_title}</a>
+</div>
+
+	</li>	
+	{END item1_menulink}
+</ul>
+{END mainmenu_block}
+
+

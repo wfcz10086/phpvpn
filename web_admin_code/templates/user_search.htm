@@ -1,0 +1,197 @@
+<html  {$html_attrs}>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>{$pagetitle}</title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link REL="stylesheet" href="styles/default.css" type="text/css">
+		{BEGIN rtlCSS}
+		<link REL="stylesheet" href="styles/defaultRTL.css" type="text/css">
+		{END rtlCSS}
+		{BEGIN styleCSSFiles}
+		<link REL="stylesheet" href="{$stylepath}" type="text/css">
+		{END styleCSSFiles}
+		{BEGIN pageCSSFiles}
+		<link REL="stylesheet" href="{$pagestylepath}" type="text/css">
+		{END pageCSSFiles}
+	</head>
+	
+	<body class="{$stylename} function-search" {$bodyattrs}>
+	{BEGIN body}
+		{$header}
+	<div class="rnr-page">
+		<div class="rnr-top {$blockclass_top}">
+			
+
+{BEGIN container_search}
+<div class="rnr-c rnr-cv rnr-c-search">
+
+{BEGIN searchheader}
+<div  class="rnr-brickcontents style2 rnr-b-srchheader {$brickclass_srchheader}"><span>	<h1>{$pagetitlelabel user search}</h1>
+</span></div>{END searchheader}
+
+
+{BEGIN conditions_block}
+<div  class="rnr-brickcontents style1 rnr-b-srchconditions {$brickclass_srchconditions}">	<center>
+	<span class=fieldname>搜索特性。:&nbsp;</span>	
+	<input type="radio" class="rnr-radio-button" name="srchType{$id}" {$all_checkbox}><label for="all_checkbox"> 所有条件</label>
+	&nbsp;&nbsp;&nbsp;
+	<input type="radio" class="rnr-radio-button" name="srchType{$id}" {$any_checkbox}><label for="any_checkbox"> 任何条件</label>
+	</center></div>{END conditions_block}
+
+
+
+<div  class="rnr-brickcontents style1 rnr-b-wrapper {$wrapperclass_fields} rnr-wrapper rnr-cbw-fields">
+
+{BEGIN container_fields}
+<div class="rnr-c rnr-cv rnr-c-fields">
+
+
+<div  class="rnr-brickcontents style1 rnr-b-srchfields {$brickclass_srchfields}"><table class="fieldGrid">
+	<tr>
+		<td>&nbsp;</td>
+		<td>不 在高级搜索页面上的列的标头。在列中的 checkox 更改为相反的搜索条件。</td>
+		<td colspan=3>&nbsp; </td>
+	</tr>
+	<tr class="{$fielddispclass_id}">
+	{BEGIN id_fieldblock}		
+	<td>
+		{$label user id}
+	</td>
+	<td>
+		<input type="checkbox" {$id_notbox}>
+	</td>
+	<td>
+		{$searchtype_id}
+	</td>
+	<td>
+		{$id_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$id_editcontrol1}&nbsp;
+	</td>
+{END id_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_user}">
+	{BEGIN user_fieldblock}		
+	<td>
+		{$label user user}
+	</td>
+	<td>
+		<input type="checkbox" {$user_notbox}>
+	</td>
+	<td>
+		{$searchtype_user}
+	</td>
+	<td>
+		{$user_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$user_editcontrol1}&nbsp;
+	</td>
+{END user_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_server}">
+	{BEGIN server_fieldblock}		
+	<td>
+		{$label user server}
+	</td>
+	<td>
+		<input type="checkbox" {$server_notbox}>
+	</td>
+	<td>
+		{$searchtype_server}
+	</td>
+	<td>
+		{$server_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$server_editcontrol1}&nbsp;
+	</td>
+{END server_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_passwd}">
+	{BEGIN passwd_fieldblock}		
+	<td>
+		{$label user passwd}
+	</td>
+	<td>
+		<input type="checkbox" {$passwd_notbox}>
+	</td>
+	<td>
+		{$searchtype_passwd}
+	</td>
+	<td>
+		{$passwd_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$passwd_editcontrol1}&nbsp;
+	</td>
+{END passwd_fieldblock}
+	</tr>
+	<tr class="{$fielddispclass_text}">
+	{BEGIN text_fieldblock}		
+	<td>
+		{$label user text}
+	</td>
+	<td>
+		<input type="checkbox" {$text_notbox}>
+	</td>
+	<td>
+		{$searchtype_text}
+	</td>
+	<td>
+		{$text_editcontrol}&nbsp;
+	</td>
+	<td>
+		{$text_editcontrol1}&nbsp;
+	</td>
+{END text_fieldblock}
+	</tr>
+
+</table></div>
+
+
+{BEGIN searchbuttons}
+<div  class="rnr-brickcontents style2 rnr-b-srchbuttons {$brickclass_srchbuttons}">{BEGIN search_button}
+<a href="#" class="rnr-button main" {$searchbutton_attrs}>搜索</a>
+{END search_button} 
+{BEGIN reset_button}
+<a href="#" class="rnr-button" {$resetbutton_attrs}>重新设置</a>
+{END reset_button}
+{BEGIN back_button}
+<a href="#" class="rnr-button" {$backbutton_attrs}>返回一览表</a>
+{END back_button}</div>{END searchbuttons}
+
+
+</div>
+{END container_fields}
+
+</div>
+
+
+</div>
+{END container_search}
+
+
+		</div>
+		<div class="rnr-middle">
+			<div class="rnr-left {$blockclass_left}">
+				
+			</div>
+			<div class="rnr-center {$blockclass_center}">
+				
+			</div>
+			<div class="rnr-right {$blockclass_right}">
+				
+			</div>
+		</div>
+		<div class="rnr-bottom {$blockclass_bottom}">
+			<!--%%bottom%%-->
+		</div>
+	</div>
+		
+		{$footer}
+	{END body}
+	</body>
+</html>

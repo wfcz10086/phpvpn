@@ -1,0 +1,52 @@
+{BEGIN mainmenu_block}
+{BEGIN treeLikeTypeMenu}
+		<tr class="runner-b-vmenu runner-vmenu tree">
+		<td class="runner-cl"></td>
+		<td class="runner-cc">
+			<div class="manage">
+				<a href="#"><img alt="*" src="images/plus.gif">
+					全部展开 扩大树形菜单中的所有菜单项
+				</a>
+			</div>
+		</td>
+		<td class="runner-cr"></td>
+	</tr>
+
+	{BEGIN item1_menulink}
+	<tr id="item1" view="topitem" class="runner-b-vmenu runner-vmenu tree Leaf{BEGIN item1_current} current{END item1_current}">
+		<td class="runner-cl"></td>	
+		<td class="runner-cc">
+			{BEGIN item1_groupimage}
+<span><img alt="*" src="images/plus.gif" class="groupImg"></span>
+{END item1_groupimage}
+<a {$item1_menulink_attrs} {BEGIN item1_current}class="curlink"{END item1_current}>{$item1_title}</a>
+
+
+
+		</td>
+		<td class="runner-cr"></td>
+	</tr>	
+	{END item1_menulink}
+
+{END treeLikeTypeMenu}
+	
+{BEGIN simpleTypeMenu}
+		{BEGIN item1_menulink}
+	<tr class="runner-b-vmenu runner-vmenu simple Leaf{BEGIN item1_current} current{END item1_current}">
+		<td class="runner-cl"></td>	
+		<td class="runner-cc">
+			<a {$item1_menulink_attrs} {BEGIN item1_current}class="curlink"{END item1_current}>{$item1_title}</a>
+
+
+
+		</td>
+		<td class="runner-cr"></td>
+	</tr>
+	{END item1_menulink}
+
+{END simpleTypeMenu}
+
+{BEGIN adminAreaTypeMenu}
+
+{END adminAreaTypeMenu}
+{END mainmenu_block}

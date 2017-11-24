@@ -1,0 +1,62 @@
+body.page-menu2
+{
+padding-top:10px; padding-left:10px;
+}
+.page-menu2 .rnr-c-menu,
+  .rnr-pagewrapper .page-menu2 .rnr-c-menu,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-c-menu
+{
+margin-bottom:5px;
+}
+.page-menu2 .rnr-c-menu,
+  .rnr-pagewrapper .page-menu2 .rnr-c-menu,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-c-menu
+{
+min-width: 400px; display:inline-block
+}
+.page-menu2 .rnr-cw-menu,
+  .rnr-pagewrapper .page-menu2 .rnr-cw-menu,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-cw-menu
+{
+text-align: left;
+}
+.page-menu2 .rnr-b-login_menu,
+  .rnr-pagewrapper .page-menu2 .rnr-b-login_menu,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-b-login_menu
+{
+white-space: nowrap;
+}
+.page-menu2 .rnr-b-login_menu,
+  .rnr-pagewrapper .page-menu2 .rnr-b-login_menu,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-b-login_menu
+{
+text-align: left;
+}
+.page-menu2 .rnr-b-login_menu > *,
+  .rnr-pagewrapper .page-menu2 .rnr-b-login_menu > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-b-login_menu > *
+{
+
+}
+.page-menu2 .rnr-b-vmenu,
+  .rnr-pagewrapper .page-menu2 .rnr-b-vmenu,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-b-vmenu
+{
+white-space: nowrap;
+}
+.page-menu2 .rnr-b-vmenu,
+  .rnr-pagewrapper .page-menu2 .rnr-b-vmenu,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-b-vmenu
+{
+text-align: left;
+}
+.page-menu2 .rnr-b-vmenu > *,
+  .rnr-pagewrapper .page-menu2 .rnr-b-vmenu > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-menu2 .rnr-b-vmenu > *
+{
+
+}
+body.page-menu2 .rnr-top
+{
+padding-right: 5px;
+}

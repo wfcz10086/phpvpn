@@ -1,0 +1,1306 @@
+.OfficeOffice.rnr-s-empty > .rnr-c
+{
+background:none;
+
+}
+.OfficeOffice.rnr-s-empty > .rnr-c .rnr-leftbricks
+{
+margin-left: 10px;
+}
+.OfficeOffice.rnr-s-empty > .rnr-c .rnr-rightbricks
+{
+margin-right: 10px;
+}
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1
+{
+color: #404040;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-empty > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-empty > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2
+{
+color: #333333;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3
+{
+color: #333333;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-empty > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #494949;
+background: linear-gradient(0.750000turn, #3A3A3A, #494949, #3A3A3A);
+;
+color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-menu > .rnr-c.rnr-ch
+{
+background-color: #494949;
+background: linear-gradient(0.750000turn, #3A3A3A, #494949, #3A3A3A);
+;
+
+}
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.750000turn, #313131, #3E3E3E, #313131);
+;
+color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.750000turn, #313131, #3E3E3E, #313131);
+;
+color: #DCDCDC;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-menu > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.OfficeOffice.rnr-s-menu > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-menu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.OfficeOffice.rnr-s-menu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-menu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-hmenu > .rnr-c
+{
+background:none;
+
+}
+.OfficeOffice.rnr-s-hmenu > .rnr-c .rnr-leftbricks
+{
+margin-left: 10px;
+}
+.OfficeOffice.rnr-s-hmenu > .rnr-c .rnr-rightbricks
+{
+margin-right: 10px;
+}
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1
+{
+color: #FFFF00;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 6px 4px;
+}
+.OfficeOffice.rnr-s-hmenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-hmenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2
+{
+color: #FFFF00;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3
+{
+color: #FFFF00;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-hmenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #3A3A3A, #494949, #3A3A3A);
+;
+color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-undermenu > .rnr-c.rnr-ch
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #3A3A3A, #494949, #3A3A3A);
+;
+
+}
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-undermenu > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.OfficeOffice.rnr-s-undermenu > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-undermenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.OfficeOffice.rnr-s-undermenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-undermenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-fields > .rnr-c
+{
+border-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom-left-radius: 3px;border-bottom-right-radius: 3px;
+}
+.OfficeOffice.rnr-s-fields > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-left-radius: 3px; padding-left: 1px;
+border-bottom-left-radius: 3px; padding-left: 1px;
+
+}
+.OfficeOffice.rnr-s-fields > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-right-radius: 3px; padding-right: 1px;
+border-bottom-right-radius: 3px; padding-right: 1px;
+
+}
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #FFFFFF;
+background: linear-gradient(0.000000turn, #FFFFFF, #FFFFFF);
+;
+color: #000000;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-fields > .rnr-c.rnr-ch
+{
+background-color: #FFFFFF;
+background: linear-gradient(0.000000turn, #FFFFFF, #FFFFFF);
+;
+
+}
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #444444, #494949, #444444);
+;
+color: #FFFFFF;
+font-family: Avant Garde, sans-serif; font-size: 14px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FFFFFF;color: #696969;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-fields > .rnr-c .rnr-leftbricks
+{
+margin-left: 3px;
+}
+.OfficeOffice.rnr-s-fields > .rnr-c .rnr-rightbricks
+{
+margin-right: 3px;
+}
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 7px 6px;
+}
+.OfficeOffice.rnr-s-fields > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 3px; background:transparent;
+}
+.OfficeOffice.rnr-s-fields > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 3px; background:transparent;
+}
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 8px 10px;
+}
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-fields > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 8px 4px;
+}
+.OfficeOffice.rnr-s-form > .rnr-c
+{
+border-top-left-radius: 10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;
+}
+.OfficeOffice.rnr-s-form > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-left-radius: 10px; padding-left: 5px;
+border-bottom-left-radius: 10px; padding-left: 5px;
+
+}
+.OfficeOffice.rnr-s-form > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-right-radius: 10px; padding-right: 5px;
+border-bottom-right-radius: 10px; padding-right: 5px;
+
+}
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #00CCCC;color: #000080;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-form > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #00CCCC;
+}
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #003366;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-form > .rnr-c .rnr-leftbricks
+{
+margin-left: 10px;
+}
+.OfficeOffice.rnr-s-form > .rnr-c .rnr-rightbricks
+{
+margin-right: 10px;
+}
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-form > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-form > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-form > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-1 > .rnr-c
+{
+border: solid #C4B1A2 1px;border-top-left-radius: 4px;border-top-right-radius: 4px;border-bottom-left-radius: 4px;border-bottom-right-radius: 4px;
+}
+.OfficeOffice.rnr-s-1 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-left-radius: 3px; padding-left: 2px;
+border-bottom-left-radius: 3px; padding-left: 2px;
+
+}
+.OfficeOffice.rnr-s-1 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-right-radius: 3px; padding-right: 2px;
+border-bottom-right-radius: 3px; padding-right: 2px;
+
+}
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #494949;
+background: linear-gradient(0.750000turn, #3A3A3A, #494949, #3A3A3A);
+;
+color: #DCDCDC;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-1 > .rnr-c.rnr-ch
+{
+background-color: #494949;
+background: linear-gradient(0.750000turn, #3A3A3A, #494949, #3A3A3A);
+;
+
+}
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #444444, #494949, #444444);
+;
+color: #FFFFFF;
+font-family: Avant Garde, sans-serif; font-size: 14px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #494949;color: #D1EEEE;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-1 > .rnr-c .rnr-leftbricks
+{
+margin-left: 4px;
+}
+.OfficeOffice.rnr-s-1 > .rnr-c .rnr-rightbricks
+{
+margin-right: 4px;
+}
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-1 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 4px; background:transparent;
+}
+.OfficeOffice.rnr-s-1 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 4px; background:transparent;
+}
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 8px 10px;
+}
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-1 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 10px;
+}
+.OfficeOffice.rnr-s-2 > .rnr-c
+{
+border-top-left-radius: 2px;border-top-right-radius: 2px;border-bottom-left-radius: 2px;border-bottom-right-radius: 2px;
+}
+.OfficeOffice.rnr-s-2 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-left-radius: 2px; padding-left: 1px;
+border-bottom-left-radius: 2px; padding-left: 1px;
+
+}
+.OfficeOffice.rnr-s-2 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-right-radius: 2px; padding-right: 1px;
+border-bottom-right-radius: 2px; padding-right: 1px;
+
+}
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #F2F2F2;
+background: linear-gradient(0.000000turn, #FBFBFB, #F2F2F2);
+;
+color: #333333;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-2 > .rnr-c.rnr-ch
+{
+background-color: #F2F2F2;
+background: linear-gradient(0.000000turn, #FBFBFB, #F2F2F2);
+;
+
+}
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #EDF1F3;color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #FFFF00;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-2 > .rnr-c .rnr-leftbricks
+{
+margin-left: 2px;
+}
+.OfficeOffice.rnr-s-2 > .rnr-c .rnr-rightbricks
+{
+margin-right: 2px;
+}
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 7px 4px;
+}
+.OfficeOffice.rnr-s-2 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.OfficeOffice.rnr-s-2 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 2px; background:transparent;
+}
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-2 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-3 > .rnr-c
+{
+border-top-left-radius: 10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;
+}
+.OfficeOffice.rnr-s-3 > .rnr-ch > .rnr-b-hmenu:first-child
+{
+border-top-left-radius: 10px; padding-left: 5px;
+border-bottom-left-radius: 10px; padding-left: 5px;
+
+}
+.OfficeOffice.rnr-s-3 > .rnr-ch> .rnr-b-hmenu:last-child
+{
+border-top-right-radius: 10px; padding-right: 5px;
+border-bottom-right-radius: 10px; padding-right: 5px;
+
+}
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style1,
+.OfficeOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1
+{
+background-color: #494949;
+background: linear-gradient(0.750000turn, #3A3A3A, #494949, #3A3A3A);
+;
+color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-3 > .rnr-c.rnr-ch
+{
+background-color: #494949;
+background: linear-gradient(0.750000turn, #3A3A3A, #494949, #3A3A3A);
+;
+
+}
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style2,
+.OfficeOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #000080;color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style3,
+.OfficeOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.rnr-s-3 > .rnr-c .rnr-leftbricks
+{
+margin-left: 10px;
+}
+.OfficeOffice.rnr-s-3 > .rnr-c .rnr-rightbricks
+{
+margin-right: 10px;
+}
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1,
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-3 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-3 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 10px; background:transparent;
+}
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2,
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.OfficeOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3,
+.OfficeOffice.rnr-s-3 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > th:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > th:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > td:not(.rnr-cs)
+{
+background-color: #FFCD9B; background-image: none;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;color: #070400;padding: 5px 6px;
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-bottomrow > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-bottomrow > td:not(.rnr-cs)
+{
+background-color: #FFCD9B; background-image: none;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;color: #070400;padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td:not(.rnr-cs)
+{
+background-color: #EDF1F3; background-image: none;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;color: #333333;color: #333333;padding: 5px 4px;
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs)
+{
+background-color: #FFFFFF; background-image: none;color: #333333;
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td.rnr-selected,
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td.rnr-selected
+{
+background-color: #FFCD9B; background-image: none;color: #333333;
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected,
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected
+{
+background-color: #FFCD9B; background-image: none;color: #333333;
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > thead > tr:last-child > th:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > thead > tr:last-child > th:not(.rnr-cs)
+{
+border-bottom: solid #C4B1A2 1px;
+
+}
+.OfficeOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > tbody > tr:not(.rnr-bottomrow) + .rnr-bottomrow > td:not(.rnr-cs),
+.OfficeOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > tbody > tr:not(.rnr-bottomrow) + .rnr-bottomrow > td:not(.rnr-cs)
+{
+border-top: solid #C4B1A2 1px;
+
+}
+.OfficeOffice .rnr-search-highlight
+{
+color: #FF0000; background-color: transparent;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > *,
+.OfficeOffice .rnr-b-vmenu.tree.main > *:not(.subitem)
+{
+background-color: #494949;
+background: linear-gradient(0.750000turn, #3A3A3A, #494949, #3A3A3A);
+;
+color:#FBFAE8;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > hr,
+.OfficeOffice .rnr-b-vmenu.tree.main > *:not(.subitem) > hr
+{
+border-color:#FBFAE8;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > *:hover:not(.expanded):not(.menuSeparator),
+.OfficeOffice .rnr-b-vmenu.tree.main > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.750000turn, #313131, #3E3E3E, #313131);
+;
+color:#FE4F29;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > *.current.current.current,
+.OfficeOffice .rnr-b-vmenu.tree.main > *:not(.subitem).current.current.current
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.750000turn, #313131, #3E3E3E, #313131);
+;
+color:#FE4F29;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > *:hover:hover:hover.expanded
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.750000turn, #313131, #3E3E3E, #313131);
+;
+color:#FE4F29;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > ul li,
+.OfficeOffice .rnr-b-vmenu.tree.main > *.subitem
+{
+background-color: #2C2D2D;
+background: linear-gradient(0.750000turn, #363737, #2C2D2D, #363737);
+;
+color:#979696;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > ul li > hr,
+.OfficeOffice .rnr-b-vmenu.tree.main > *.subitem > hr
+{
+border-color:#979696;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.OfficeOffice .rnr-b-vmenu.tree.main > *.subitem:hover:not(.menuSeparator)
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > ul li.current.current.current,
+.OfficeOffice .rnr-b-vmenu.tree.main > *.subitem.current.current.current
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > ul li:hover:hover:hover.expanded
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.tree.main > *:not(.subitem) > div
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > :not(ul) > *
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.OfficeOffice .rnr-b-vmenu.tree.main > *.subitem > div
+{
+padding: 7px 7px; margin:1px 3px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > * > ul li > :not(ul) > *
+{
+padding: 7px 7px; margin:1px 3px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main >  * ul > li:not(:first-child)
+{
+border-top: solid #2A2A2A 1px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.main > *:not(:first-child),
+.OfficeOffice .rnr-b-vmenu.tree.main > *:not(.subitem):not(:first-child)
+{
+border-top:solid #2B2A2A 1px;
+}
+.OfficeOffice .rnr-b-vmenu.tree.main > *.subitem:not(:first-child)
+{
+border-top: solid #2A2A2A 1px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > *,
+.OfficeOffice .rnr-b-vmenu.tree.second > *:not(.subitem)
+{
+background-color: #E8E8E8;
+background: linear-gradient(0.000000turn, #F5F5F5, #E8E8E8);
+;
+color:#353535;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > hr,
+.OfficeOffice .rnr-b-vmenu.tree.second > *:not(.subitem) > hr
+{
+border-color:#353535;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > *:hover:not(.expanded):not(.menuSeparator),
+.OfficeOffice .rnr-b-vmenu.tree.second > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-color: #F1F1F1;
+background: linear-gradient(0.000000turn, #F9F9F9, #F1F1F1);
+;
+color:#353535;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > *.current.current.current,
+.OfficeOffice .rnr-b-vmenu.tree.second > *:not(.subitem).current.current.current
+{
+background-color: #004080;
+background: linear-gradient(0.000000turn, #99B2CC, #004080);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > *:hover:hover:hover.expanded
+{
+background-color: #F1F1F1;
+background: linear-gradient(0.000000turn, #F9F9F9, #F1F1F1);
+;
+color:#353535;font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > ul li,
+.OfficeOffice .rnr-b-vmenu.tree.second > *.subitem
+{
+background-image:none; background-color: #E8E8E8;color:#353535;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > ul li > hr,
+.OfficeOffice .rnr-b-vmenu.tree.second > *.subitem > hr
+{
+border-color:#353535;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.OfficeOffice .rnr-b-vmenu.tree.second > *.subitem:hover:not(.menuSeparator)
+{
+background-image:none; background-color: #F1F1F1;color:#353535;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > ul li.current.current.current,
+.OfficeOffice .rnr-b-vmenu.tree.second > *.subitem.current.current.current
+{
+background-image:none; background-color: #004080;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > ul li:hover:hover:hover.expanded
+{
+background-image:none; background-color: #F1F1F1;color:#353535;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-vmenu.tree.second > *:not(.subitem) > div
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > :not(ul) > *
+{
+padding: 8px 4px; margin:1px 2px;
+}
+.OfficeOffice .rnr-b-vmenu.tree.second > *.subitem > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second > * > ul li > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.OfficeOffice .rnr-b-vmenu.simple.second >  * ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.OfficeOffice .rnr-b-hmenu.main > div:not(.rnr-hseparator)
+{
+background: transparent;color:#FBFAE8;font-family: Tahoma, sans-serif; font-size: 16px; font-weight: normal; font-style: normal; text-decoration: none;padding: 19px 20px;border: none;
+}
+.OfficeOffice .rnr-b-hmenu.main
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #3A3A3A, #494949, #3A3A3A);
+;
+
+}
+.OfficeOffice .rnr-b-hmenu.main > div:not(.rnr-hseparator) > hr
+{
+border-color:#FBFAE8;
+}
+.OfficeOffice .rnr-b-hmenu.main:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background: transparent;color:#FE4F29;font-family: Tahoma, sans-serif; font-size: 16px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.main:hover:not(.expanded)
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.000000turn, #313131, #3E3E3E, #313131);
+;
+
+}
+.OfficeOffice .rnr-b-hmenu.main.current.current > div:not(.rnr-hseparator)
+{
+background: transparent;color:#FE4F29;font-family: Tahoma, sans-serif; font-size: 16px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.main.current.current
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.000000turn, #313131, #3E3E3E, #313131);
+;
+
+}
+.OfficeOffice .rnr-b-hmenu.main:hover.expanded > div:not(.rnr-hseparator)
+{
+background: transparent;color:#FE4F29;font-family: Tahoma, sans-serif; font-size: 16px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.main:hover.expanded
+{
+background-color: #3E3E3E;
+background: linear-gradient(0.000000turn, #313131, #3E3E3E, #313131);
+;
+
+}
+.OfficeOffice .rnr-b-hmenu.main > ul li
+{
+background-image:none; background-color: #2C2D2D;color:#979696;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.main > ul li > hr
+{
+border-color:#979696;
+}
+.OfficeOffice .rnr-b-hmenu.main > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.main > ul li.current.current
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.main > ul li:hover.expanded
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.main > ul li > div > div
+{
+padding: 9px 14px; margin:1px 6px;
+}
+.OfficeOffice .rnr-b-hmenu.main:not(:last-child)
+{
+border-right: solid #2B2A2A 1px;
+}
+.OfficeOffice :not(.rnr-b-hmenu):not(.main) + .rnr-b-hmenu.main
+{
+border-left: solid #2B2A2A 1px;
+}
+.OfficeOffice .rnr-b-hmenu.second > div:not(.rnr-hseparator)
+{
+background-color: #E8E8E8;
+background: linear-gradient(0.000000turn, #B9B9B9, #E8E8E8, #B9B9B9);
+;
+color:#6F6F6F;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;padding: 5px 4px;border-top-right-radius: 8px;
+}
+.OfficeOffice .rnr-b-hmenu.second > div:not(.rnr-hseparator) > hr
+{
+border-color:#6F6F6F;
+}
+.OfficeOffice .rnr-b-hmenu.second:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background-color: #F2F2F2;
+background: linear-gradient(0.000000turn, #C1C1C1, #F2F2F2, #C1C1C1);
+;
+color:#6F6F6F;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.second.current.current > div:not(.rnr-hseparator)
+{
+background-color: #004080;
+background: linear-gradient(0.000000turn, #003366, #004080, #003366);
+;
+color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.second:hover.expanded > div:not(.rnr-hseparator)
+{
+background-color: #F2F2F2;
+background: linear-gradient(0.000000turn, #C1C1C1, #F2F2F2, #C1C1C1);
+;
+color:#6F6F6F;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.second > ul li
+{
+background-image:none; background-color: #E8E8E8;color:#000080;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.second > ul li > hr
+{
+border-color:#000080;
+}
+.OfficeOffice .rnr-b-hmenu.second > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-image:none; background-color: #F6F6F6;color:#0000FF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.second > ul li.current.current
+{
+background-image:none; background-color: #004080;color:#FFFFFF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.second > ul li:hover.expanded
+{
+background-image:none; background-color: #F6F6F6;color:#0000FF;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.OfficeOffice .rnr-b-hmenu.second > ul li > div > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.OfficeOffice .rnr-b-hmenu.second ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.OfficeOffice .rnr-b-hmenu.second.rnr-b-hmenu.rnr-b-hmenu
+{
+padding-bottom: 0; padding-left:0; padding-right:0; vertical-align: bottom;
+}
+body.OfficeOffice
+{
+
+background-color:#E6E6E6;
+}
+.OfficeOffice .rnr-list
+{
+color: #404040;background-color: #F2F2F2;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;border: solid #A9A9A9 1px;box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.OfficeOffice .rnr-tab.selected
+{
+background-color:#494949;
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+
+}
+.OfficeOffice .rnr-tab
+{
+background-color:#C0C0C0;
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+border: solid #000000 1px; border-bottom-width:0;
+}
+.OfficeOffice .rnr-tab.selected > a
+{
+color: #FFFFFF;
+
+}
+.OfficeOffice .rnr-tab > a
+{
+color: #000000;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .yui-navset .yui-content
+{
+border: solid #494949 1px;border-top-width: 5px;
+}
+.OfficeOffice .rnr-stepnav > a.active,
+.OfficeOffice .rnr-stepnav > a:hover:not(.active)
+{
+background-color: #C9C9C9;
+background: linear-gradient(0.000000turn, #EFEFEF, #C9C9C9);
+;
+color: #393939;
+
+}
+.OfficeOffice .rnr-stepnav > a.active:after,
+.OfficeOffice .rnr-stepnav > a:hover:not(.active):after
+{
+background-color: #C9C9C9;
+background: linear-gradient(0.875000turn, #EFEFEF, #C9C9C9);
+;
+
+}
+.OfficeOffice .rnr-stepnav > a:not(.active),
+.OfficeOffice .rnr-stepnav > a:not(.active):after
+{
+background-image: none; background-color: #333333;
+
+}
+.OfficeOffice .rnr-stepnav > a:before
+{
+background-image: none; background: #DCDCDC;
+
+}
+.OfficeOffice .rnr-stepnav > a:not(.active)
+{
+color: #FFFFFF;
+
+}
+.OfficeOffice .rnr-stepnav > a:before 
+{
+color: #CE1F00;
+
+}
+.OfficeOffice .rnr-stepnav > a,
+ .rnr-pagewrapper .OfficeOffice .rnr-stepnav > a,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .rnr-stepnav > a
+{
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice  .rnr-message
+{
+background-color: #F3EBDE;border: solid #FE6F49 2px;color: #393939;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice  .rnr-error.rnr-error
+{
+color: #A80000;font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .yui3-panel-content.yui3-panel-content
+{
+border: solid #C4B1A2 1px;border-radius: 4px;
+}
+.OfficeOffice  .yui3-panel .yui3-widget-hd.yui3-widget-hd.yui3-widget-hd
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #444444, #494949, #444444);
+;
+font-family: Avant Garde, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.OfficeOffice  .yui3-widget-ft
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #444444, #494949, #444444);
+;
+font-family: Avant Garde, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.OfficeOffice .rnr-dbbordered
+{
+border: solid #C4B1A2 1px;border-radius: 4px;
+}
+.OfficeOffice  .rnr-dbelemheader
+{
+background-color: #494949;
+background: linear-gradient(0.000000turn, #444444, #494949, #444444);
+;
+font-family: Avant Garde, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.OfficeOffice  .rnr-dbelemfooter
+{
+background-color: #D8D8D8;
+background: linear-gradient(0.000000turn, #CBCBCB, #D8D8D8, #CBCBCB);
+;
+font-family: Avant Garde, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #000000;
+}
+.OfficeOffice  .rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow
+{
+background-color: #FFFACD; background-image: none;color: #4C4951;
+}
+.OfficeOffice .rnr-dashboard
+{
+background-color: #FFFFFF;
+}
+.OfficeOffice .rnr-button.rnr-button,
+.OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.OfficeOffice .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .OfficeOffice .rnr-button.rnr-button,
+ .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button.rnr-button
+{
+border: solid 1px;border-radius: 2px;padding: 3px 10px 3px;background-color: #C9C9C9;
+background: linear-gradient(0.000000turn, #EFEFEF, #C9C9C9);
+;
+border-color: #696969;color: #393939;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .rnr-button.rnr-button.img,
+.OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.OfficeOffice .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .OfficeOffice .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.OfficeOffice .rnr-button:hover,
+.OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.OfficeOffice .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .OfficeOffice .rnr-button:hover,
+ .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button:hover
+{
+background-color: #DCDCDC;
+background: linear-gradient(0.000000turn, #F5F5F5, #DCDCDC);
+;
+border-color: #CE1F00;color: #CE1F00;
+
+}
+.OfficeOffice .rnr-button:active,
+.OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+.OfficeOffice .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .OfficeOffice .rnr-button:active,
+ .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button:active
+{
+background-color: #DDDDDD;
+background: linear-gradient(0.000000turn, #F5F5F5, #DDDDDD);
+;
+border-color: #696969;color: #808080;
+
+}
+.OfficeOffice .rnr-button.disabled,
+.OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.OfficeOffice .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .OfficeOffice .rnr-button.disabled,
+ .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .button.button.button.rnr-button.disabled
+{
+background-color: #333333;
+background: linear-gradient(0.000000turn, #C5C5C5, #333333);
+;
+border-color: #FE4F29;color: #FFFFFF;
+
+}
+.OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.OfficeOffice .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button.rnr-button
+{
+background: none; border: none; ;
+border: none;border-radius: 0px;padding: 4px 8px 4px;color: #000000;
+font-family: Tahoma, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.OfficeOffice .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button.rnr-button.img
+{
+padding: 4px;
+
+}
+.OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.OfficeOffice .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button:hover
+{
+color: #FE4F29;
+
+}
+.OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+.OfficeOffice .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button:active
+{
+color: #F66C13;
+
+}
+.OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.OfficeOffice .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .link.link.link.rnr-button.disabled
+{
+color: #404040;
+
+}
+.OfficeOffice .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button.rnr-button
+{
+border: solid 1px;border-radius: 2px;padding: 3px 12px 4px;background-image: none; background-color: #FE6F49;
+border-color: #393939;color: #393939;
+font-family: Tahoma, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.OfficeOffice .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.OfficeOffice .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button:hover
+{
+background-image: none; background-color: #DCDCDC;
+border-color: #CE1F00;color: #CE1F00;
+
+}
+.OfficeOffice .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button:active
+{
+background-image: none; background-color: #DDDDDD;
+border-color: #696969;color: #808080;
+
+}
+.OfficeOffice .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .OfficeOffice .main.main.main.rnr-button.disabled
+{
+background-image: none; background-color: #333333;
+border-color: #FE4F29;color: #FFFFFF;
+
+}
+ .rnr-left, .rnr-center {
+ background: #ffffff !important;
+ }
+ 

@@ -1,0 +1,168 @@
+body.page-login2
+{
+padding-top:10px; padding-left:10px;
+}
+.page-login2 .rnr-c-login,
+  .rnr-pagewrapper .page-login2 .rnr-c-login,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-c-login
+{
+margin-bottom:5px;
+}
+.page-login2 .rnr-c-login,
+  .rnr-pagewrapper .page-login2 .rnr-c-login,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-c-login
+{
+min-width: 500px; display:inline-block
+}
+.page-login2 .rnr-cw-login,
+  .rnr-pagewrapper .page-login2 .rnr-cw-login,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-cw-login
+{
+text-align: center;
+}
+.page-login2 .rnr-b-loginheader,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginheader,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginheader
+{
+white-space: nowrap;
+}
+.page-login2 .rnr-b-loginheader,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginheader,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginheader
+{
+text-align: left;
+}
+.page-login2 .rnr-b-loginheader > *,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginheader > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginheader > *
+{
+font-size: 120%;
+}
+.page-login2 .rnr-b-message,
+  .rnr-pagewrapper .page-login2 .rnr-b-message,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-message
+{
+white-space: nowrap;
+}
+.page-login2 .rnr-b-message,
+  .rnr-pagewrapper .page-login2 .rnr-b-message,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-message
+{
+text-align: left;
+}
+.page-login2 .rnr-b-message > *,
+  .rnr-pagewrapper .page-login2 .rnr-b-message > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-message > *
+{
+
+}
+.page-login2 .rnr-c-fields,
+  .rnr-pagewrapper .page-login2 .rnr-c-fields,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-c-fields
+{
+margin-bottom:5px;
+}
+.page-login2 .rnr-c-fields,
+  .rnr-pagewrapper .page-login2 .rnr-c-fields,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-c-fields
+{
+min-width: 100px;
+}
+.page-login2 .rnr-b-loginfields,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginfields,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginfields
+{
+white-space: nowrap;
+}
+.page-login2 .rnr-b-loginfields,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginfields,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginfields
+{
+text-align: left;
+}
+.page-login2 .rnr-b-loginfields > *,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginfields > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginfields > *
+{
+
+}
+.page-login2 .rnr-b-mesguest,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesguest,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesguest
+{
+white-space: nowrap;
+}
+.page-login2 .rnr-b-mesguest,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesguest,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesguest
+{
+text-align: center;
+}
+.page-login2 .rnr-b-mesguest > *,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesguest > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesguest > *
+{
+
+}
+.page-login2 .rnr-b-mesreg,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesreg,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesreg
+{
+white-space: nowrap;
+}
+.page-login2 .rnr-b-mesreg,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesreg,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesreg
+{
+text-align: center;
+}
+.page-login2 .rnr-b-mesreg > *,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesreg > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesreg > *
+{
+
+}
+.page-login2 .rnr-b-mesforgot,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesforgot,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesforgot
+{
+white-space: nowrap;
+}
+.page-login2 .rnr-b-mesforgot,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesforgot,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesforgot
+{
+text-align: center;
+}
+.page-login2 .rnr-b-mesforgot > *,
+  .rnr-pagewrapper .page-login2 .rnr-b-mesforgot > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-mesforgot > *
+{
+
+}
+.page-login2 .rnr-b-loginbuttons,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginbuttons,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginbuttons
+{
+white-space: nowrap;
+}
+.page-login2 .rnr-b-loginbuttons,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginbuttons,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginbuttons
+{
+text-align: left;
+}
+.page-login2 .rnr-b-loginbuttons > *,
+  .rnr-pagewrapper .page-login2 .rnr-b-loginbuttons > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-login2 .rnr-b-loginbuttons > *
+{
+
+}
+body.page-login2 .rnr-toptable
+{
+width:100%;
+}
+body.page-login2 .rnr-top
+{
+padding-right: 5px;
+}

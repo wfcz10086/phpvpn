@@ -1,0 +1,114 @@
+body.page-export2
+{
+padding-top:10px; padding-left:10px;
+}
+.page-export2 .rnr-c-export,
+  .rnr-pagewrapper .page-export2 .rnr-c-export,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-c-export
+{
+margin-bottom:5px;
+}
+.page-export2 .rnr-c-export,
+  .rnr-pagewrapper .page-export2 .rnr-c-export,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-c-export
+{
+min-width: 400px; display:inline-block
+}
+.page-export2 .rnr-cw-export,
+  .rnr-pagewrapper .page-export2 .rnr-cw-export,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-cw-export
+{
+text-align: center;
+}
+.page-export2 .rnr-b-exportheader,
+  .rnr-pagewrapper .page-export2 .rnr-b-exportheader,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-exportheader
+{
+white-space: nowrap;
+}
+.page-export2 .rnr-b-exportheader,
+  .rnr-pagewrapper .page-export2 .rnr-b-exportheader,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-exportheader
+{
+text-align: right;
+}
+.page-export2 .rnr-b-exportheader > *,
+  .rnr-pagewrapper .page-export2 .rnr-b-exportheader > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-exportheader > *
+{
+font-size: 120%;
+}
+.page-export2 .rnr-c-range,
+  .rnr-pagewrapper .page-export2 .rnr-c-range,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-c-range
+{
+margin-bottom:5px;
+}
+.page-export2 .rnr-b-exprange,
+  .rnr-pagewrapper .page-export2 .rnr-b-exprange,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-exprange
+{
+white-space: nowrap;
+}
+.page-export2 .rnr-b-exprange,
+  .rnr-pagewrapper .page-export2 .rnr-b-exprange,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-exprange
+{
+text-align: right;
+}
+.page-export2 .rnr-b-exprange > *,
+  .rnr-pagewrapper .page-export2 .rnr-b-exprange > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-exprange > *
+{
+
+}
+.page-export2 .rnr-c-fields,
+  .rnr-pagewrapper .page-export2 .rnr-c-fields,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-c-fields
+{
+margin-bottom:5px;
+}
+.page-export2 .rnr-b-expoutput,
+  .rnr-pagewrapper .page-export2 .rnr-b-expoutput,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-expoutput
+{
+white-space: nowrap;
+}
+.page-export2 .rnr-b-expoutput,
+  .rnr-pagewrapper .page-export2 .rnr-b-expoutput,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-expoutput
+{
+text-align: right;
+}
+.page-export2 .rnr-b-expoutput > *,
+  .rnr-pagewrapper .page-export2 .rnr-b-expoutput > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-expoutput > *
+{
+
+}
+.page-export2 .rnr-b-expbuttons,
+  .rnr-pagewrapper .page-export2 .rnr-b-expbuttons,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-expbuttons
+{
+white-space: nowrap;
+}
+.page-export2 .rnr-b-expbuttons,
+  .rnr-pagewrapper .page-export2 .rnr-b-expbuttons,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-expbuttons
+{
+text-align: right;
+}
+.page-export2 .rnr-b-expbuttons > *,
+  .rnr-pagewrapper .page-export2 .rnr-b-expbuttons > *,
+  .rnr-pagewrapper .rnr-pagewrapper .page-export2 .rnr-b-expbuttons > *
+{
+
+}
+body.page-export2 .rnr-toptable
+{
+width:100%;
+}
+body.page-export2 .rnr-top
+{
+padding-right: 5px;
+}

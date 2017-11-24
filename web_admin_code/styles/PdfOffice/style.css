@@ -1,0 +1,1063 @@
+.PdfOffice.rnr-s-empty > .rnr-c
+{
+background:none;
+
+}
+.PdfOffice.rnr-s-empty > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-empty > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1
+{
+color: #404040;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-empty > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-empty > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2
+{
+color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3
+{
+color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-empty > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-empty > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-menu > .rnr-c
+{
+border: solid #000000 1px;
+}
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-menu > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #3E3E3E;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #3E3E3E;color: #DCDCDC;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-menu > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-menu > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-menu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-menu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-menu > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-menu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-hmenu > .rnr-c
+{
+background:none;
+
+}
+.PdfOffice.rnr-s-hmenu > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-hmenu > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-hmenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-hmenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3
+{
+color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-hmenu > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-hmenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-undermenu > .rnr-c
+{
+border: solid #DCDCDC 1px;
+}
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-undermenu > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FFFF00;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-undermenu > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-undermenu > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 7px 4px;
+}
+.PdfOffice.rnr-s-undermenu > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-undermenu > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-undermenu > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-undermenu > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #FFFFFF;color: #000000;
+font-family: Arial, sans-serif; font-size: 15px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-fields > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #FFFFFF;
+}
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FFFFFF;color: #696969;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-fields > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-fields > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 6px 2px;
+}
+.PdfOffice.rnr-s-fields > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-fields > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 9px 6px;
+}
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-fields > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-fields > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #00CCCC;color: #000080;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-form > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #00CCCC;
+}
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #003366;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-form > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-form > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-form > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-form > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-form > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-form > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #DCDCDC;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-1 > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #494949;color: #D1EEEE;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-1 > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-1 > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 7px 4px;
+}
+.PdfOffice.rnr-s-1 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-1 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-1 > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-1 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #F2F2F2;color: #333333;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-2 > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #F2F2F2;
+}
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #EDF1F3;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #6699CC;color: #FFFF00;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-2 > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-2 > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 6px 4px;
+}
+.PdfOffice.rnr-s-2 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-2 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-2 > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-2 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style1,
+.PdfOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1
+{
+background-image: none; background-color: #494949;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-3 > .rnr-c.rnr-ch
+{
+background-image: none; background-color: #494949;
+}
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style2,
+.PdfOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2
+{
+background-image: none; background-color: #000080;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style3,
+.PdfOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3
+{
+background-image: none; background-color: #FF9900;color: #FFFFFF;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.rnr-s-3 > .rnr-c .rnr-leftbricks
+{
+margin-left: 0px;
+}
+.PdfOffice.rnr-s-3 > .rnr-c .rnr-rightbricks
+{
+margin-right: 0px;
+}
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style1:not(.rnr-hfiller),
+.PdfOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style1,
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style1 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-3 > .rnr-ch:before
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-3 > .rnr-ch:after
+{
+content: "";display:table-cell;padding:0 0 0 0px; background:transparent;
+}
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style2:not(.rnr-hfiller),
+.PdfOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style2,
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style2 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style3:not(.rnr-hfiller),
+.PdfOffice.rnr-s-3 > * > :not(.rnr-b-wrapper) .style3,
+.PdfOffice.rnr-s-3 > :not(.runner-c) > *.style3 > .fieldGrid > * > * > td
+{
+padding: 5px 4px;
+}
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > th:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > th:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-toprow > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-toprow > td:not(.rnr-cs)
+{
+background-color: #FFCD9B; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #070400;padding: 8px 7px;
+}
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-bottomrow > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-bottomrow > td:not(.rnr-cs)
+{
+background-color: #FFCD9B; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #070400;padding: 6px 7px;
+}
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td:not(.rnr-cs)
+{
+background-color: #EDF1F3; background-image: none;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;color: #333333;color: #333333;padding: 6px 7px;
+}
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td:not(.rnr-cs)
+{
+background-color: #FFFFFF; background-image: none;color: #333333;
+}
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row > td.rnr-selected,
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row > td.rnr-selected
+{
+background-color: #FFCD9B; background-image: none;color: #333333;
+}
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical).hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord.hoverable > * > .rnr-row:hover:nth-last-child(2n+1) > td:not(.rnr-cs),
+.PdfOffice.rnr-s-grid > table:not(.runner-c):not(.vertical) > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected,
+.PdfOffice.rnr-s-grid > table.vertical > * > tr > td > table.rnr-vrecord > * > .rnr-row:nth-last-child(2n+1) > td.rnr-selected
+{
+background-color: #FFCD9B; background-image: none;color: #333333;
+}
+.PdfOffice .rnr-search-highlight
+{
+color: #FF0000; background-color: transparent;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > *,
+.PdfOffice .rnr-b-vmenu.tree.main > *:not(.subitem)
+{
+background-image:none; background-color: #494949;color:#FBFAE8;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > hr,
+.PdfOffice .rnr-b-vmenu.tree.main > *:not(.subitem) > hr
+{
+border-color:#FBFAE8;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > *:hover:not(.expanded):not(.menuSeparator),
+.PdfOffice .rnr-b-vmenu.tree.main > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-image:none; background-color: #3E3E3E;color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > *.current.current.current,
+.PdfOffice .rnr-b-vmenu.tree.main > *:not(.subitem).current.current.current
+{
+background-image:none; background-color: #3E3E3E;color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > *:hover:hover:hover.expanded
+{
+background-image:none; background-color: #3E3E3E;color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > ul li,
+.PdfOffice .rnr-b-vmenu.tree.main > *.subitem
+{
+background-image:none; background-color: #2C2D2D;color:#979696;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > ul li > hr,
+.PdfOffice .rnr-b-vmenu.tree.main > *.subitem > hr
+{
+border-color:#979696;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.PdfOffice .rnr-b-vmenu.tree.main > *.subitem:hover:not(.menuSeparator)
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > ul li.current.current.current,
+.PdfOffice .rnr-b-vmenu.tree.main > *.subitem.current.current.current
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > ul li:hover:hover:hover.expanded
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.tree.main > *:not(.subitem) > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.tree.main > *.subitem > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.simple.main > * > ul li > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.simple.main >  * ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.PdfOffice .rnr-b-vmenu.simple.second > *,
+.PdfOffice .rnr-b-vmenu.tree.second > *:not(.subitem)
+{
+background-image:none; background-color: #E8E8E8;color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > hr,
+.PdfOffice .rnr-b-vmenu.tree.second > *:not(.subitem) > hr
+{
+border-color:#353535;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > *:hover:not(.expanded):not(.menuSeparator),
+.PdfOffice .rnr-b-vmenu.tree.second > *:not(.subitem):not(.manage):hover:not(.menuSeparator)
+{
+background-image:none; background-color: #F1F1F1;color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > *.current.current.current,
+.PdfOffice .rnr-b-vmenu.tree.second > *:not(.subitem).current.current.current
+{
+background-image:none; background-color: #004080;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > *:hover:hover:hover.expanded
+{
+background-image:none; background-color: #F1F1F1;color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > ul li,
+.PdfOffice .rnr-b-vmenu.tree.second > *.subitem
+{
+background-image:none; background-color: #E8E8E8;color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > ul li > hr,
+.PdfOffice .rnr-b-vmenu.tree.second > *.subitem > hr
+{
+border-color:#353535;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > ul li:hover:not(.expanded):not(.menuSeparator),
+.PdfOffice .rnr-b-vmenu.tree.second > *.subitem:hover:not(.menuSeparator)
+{
+background-image:none; background-color: #F1F1F1;color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > ul li.current.current.current,
+.PdfOffice .rnr-b-vmenu.tree.second > *.subitem.current.current.current
+{
+background-image:none; background-color: #004080;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > ul li:hover:hover:hover.expanded
+{
+background-image:none; background-color: #F1F1F1;color:#353535;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-vmenu.tree.second > *:not(.subitem) > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.tree.second > *.subitem > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.simple.second > * > ul li > :not(ul) > *
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-vmenu.simple.second >  * ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.PdfOffice .rnr-b-hmenu.main > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #494949;color:#FBFAE8;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;padding: 5px 6px;border: solid #2B2A2A 1px;
+}
+.PdfOffice .rnr-b-hmenu.main > div:not(.rnr-hseparator) > hr
+{
+border-color:#FBFAE8;
+}
+.PdfOffice .rnr-b-hmenu.main:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #3E3E3E;color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.main.current.current > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #3E3E3E;color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.main:hover.expanded > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #3E3E3E;color:#FE4F29;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.main > ul li
+{
+background-image:none; background-color: #2C2D2D;color:#979696;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.main > ul li > hr
+{
+border-color:#979696;
+}
+.PdfOffice .rnr-b-hmenu.main > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.main > ul li.current.current
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.main > ul li:hover.expanded
+{
+background-image:none; background-color: #2C2D2D;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.main > ul li > div > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-hmenu.main ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.PdfOffice .rnr-b-hmenu.main.rnr-b-hmenu.rnr-b-hmenu
+{
+padding-bottom: 0; padding-left:0; padding-right:0; vertical-align: bottom;
+}
+.PdfOffice .rnr-b-hmenu.second > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #E8E8E8;color:#6F6F6F;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;padding: 5px 6px;border: solid #004080 1px;
+}
+.PdfOffice .rnr-b-hmenu.second > div:not(.rnr-hseparator) > hr
+{
+border-color:#6F6F6F;
+}
+.PdfOffice .rnr-b-hmenu.second:hover:not(.expanded) > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #F2F2F2;color:#6F6F6F;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.second.current.current > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #004080;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.second:hover.expanded > div:not(.rnr-hseparator)
+{
+background-image:none; background-color: #F2F2F2;color:#6F6F6F;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.second > ul li
+{
+background-image:none; background-color: #E8E8E8;color:#000080;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.second > ul li > hr
+{
+border-color:#000080;
+}
+.PdfOffice .rnr-b-hmenu.second > ul li:hover:not(.expanded):not(.menuSeparator)
+{
+background-image:none; background-color: #F6F6F6;color:#0000FF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.second > ul li.current.current
+{
+background-image:none; background-color: #004080;color:#FFFFFF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.second > ul li:hover.expanded
+{
+background-image:none; background-color: #F6F6F6;color:#0000FF;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: italic; text-decoration: none;
+}
+.PdfOffice .rnr-b-hmenu.second > ul li > div > div
+{
+padding: 4px 3px; margin:1px 1px;
+}
+.PdfOffice .rnr-b-hmenu.second ul
+{
+box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.PdfOffice .rnr-b-hmenu.second.rnr-b-hmenu.rnr-b-hmenu
+{
+padding-bottom: 0; padding-left:0; padding-right:0; vertical-align: bottom;
+}
+body.PdfOffice
+{
+
+background-color:#E6E6E6;
+}
+.PdfOffice .rnr-list
+{
+color: #404040;background-color: #F2F2F2;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;box-shadow:5px 5px 3px rgba(0,0,0,0.2);
+}
+.PdfOffice .rnr-tab.selected
+{
+background-color:#494949;
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+
+}
+.PdfOffice .rnr-tab
+{
+background-color:#C0C0C0;
+border-top-left-radius:4px;
+border-top-right-radius:4px;
+border: solid #000000 1px; border-bottom-width:0;
+}
+.PdfOffice .rnr-tab.selected > a
+{
+color: #FFFFFF;
+
+}
+.PdfOffice .rnr-tab > a
+{
+color: #000000;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice .yui-navset .yui-content
+{
+border: solid #494949 1px;border-top-width: 5px;
+}
+.PdfOffice .rnr-stepnav > a.active,
+.PdfOffice .rnr-stepnav > a:hover:not(.active),
+.PdfOffice .rnr-stepnav > a.active:after,
+.PdfOffice .rnr-stepnav > a:hover:not(.active):after
+{
+background-image: none; background-color: #C9C9C9;
+
+}
+.PdfOffice .rnr-stepnav > a:not(.active),
+.PdfOffice .rnr-stepnav > a:not(.active):after
+{
+background-image: none; background-color: #333333;
+
+}
+.PdfOffice .rnr-stepnav > a:before
+{
+background-image: none; background: #DCDCDC;
+
+}
+.PdfOffice .rnr-stepnav > a.active,
+.PdfOffice .rnr-stepnav > a:hover:not(.active)
+{
+color: #393939;
+
+}
+.PdfOffice .rnr-stepnav > a:not(.active)
+{
+color: #FFFFFF;
+
+}
+.PdfOffice .rnr-stepnav > a:before 
+{
+color: #CE1F00;
+
+}
+.PdfOffice .rnr-stepnav > a,
+ .rnr-pagewrapper .PdfOffice .rnr-stepnav > a,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .rnr-stepnav > a
+{
+font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.PdfOffice  .rnr-message
+{
+background-color: #F3EBDE;border:none;color: #393939;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice  .rnr-error.rnr-error
+{
+color: #A80000;font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice  .yui3-panel .yui3-widget-hd.yui3-widget-hd.yui3-widget-hd
+{
+background-color: #494949; background-image: none;font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.PdfOffice  .yui3-widget-ft
+{
+background-color: #494949; background-image: none;font-family: Arial, sans-serif; font-size: 15px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.PdfOffice  .rnr-dbelemheader
+{
+background-color: #494949; background-image: none;font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none;color: #FFFFFF;
+}
+.PdfOffice  .rnr-dbelemfooter
+{
+background-color: #D8D8D8; background-image: none;font-family: Arial, sans-serif; font-size: 15px; font-weight: normal; font-style: normal; text-decoration: none;color: #000000;
+}
+.PdfOffice  .rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow.rnr-dbselectedrow
+{
+background-color: #FFFACD; background-image: none;color: #4C4951;
+}
+.PdfOffice .rnr-dashboard
+{
+background-color: #FFFFFF;
+}
+.PdfOffice .rnr-button.rnr-button,
+.PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.PdfOffice .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .PdfOffice .rnr-button.rnr-button,
+ .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button.rnr-button
+{
+border: solid 1px;border-radius: 4px;padding: 3px 9px 4px;background-image: none; background-color: #C9C9C9;
+border-color: #696969;color: #393939;
+font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.PdfOffice .rnr-button.rnr-button.img,
+.PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.PdfOffice .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .PdfOffice .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.PdfOffice .rnr-button:hover,
+.PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.PdfOffice .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .PdfOffice .rnr-button:hover,
+ .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button:hover
+{
+background-image: none; background-color: #DCDCDC;
+border-color: #CE1F00;color: #CE1F00;
+
+}
+.PdfOffice .rnr-button:active,
+.PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+.PdfOffice .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .PdfOffice .rnr-button:active,
+ .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button:active
+{
+background-image: none; background-color: #DDDDDD;
+border-color: #696969;color: #808080;
+
+}
+.PdfOffice .rnr-button.disabled,
+.PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.PdfOffice .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .PdfOffice .rnr-button.disabled,
+ .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.asbuttons > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .button.button.button.rnr-button.disabled
+{
+background-image: none; background-color: #333333;
+border-color: #FE4F29;color: #FFFFFF;
+
+}
+.PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+.PdfOffice .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button.rnr-button
+{
+background: none; border: none; ;
+border: none;border-radius: 0px;padding: 4px 8px 4px;color: #000000;
+font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;
+}
+.PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+.PdfOffice .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button.rnr-button.img
+{
+padding: 4px;
+
+}
+.PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+.PdfOffice .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button:hover
+{
+color: #FE4F29;
+
+}
+.PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+.PdfOffice .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button:active
+{
+color: #F66C13;
+
+}
+.PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+.PdfOffice .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice.aslinks > * > *:not(.rnr-wrapper) .rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .link.link.link.rnr-button.disabled
+{
+color: #404040;
+
+}
+.PdfOffice .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button.rnr-button,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button.rnr-button
+{
+border: solid 1px;border-radius: 4px;padding: 3px 9px 4px;background-image: none; background-color: #FE6F49;
+border-color: #393939;color: #393939;
+font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;
+}
+.PdfOffice .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button.rnr-button.img,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button.rnr-button.img
+{
+padding: 3px;
+
+}
+.PdfOffice .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button:hover,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button:hover
+{
+background-image: none; background-color: #DCDCDC;
+border-color: #CE1F00;color: #CE1F00;
+
+}
+.PdfOffice .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button:active,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button:active
+{
+background-image: none; background-color: #DDDDDD;
+border-color: #696969;color: #808080;
+
+}
+.PdfOffice .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button.disabled,
+ .rnr-pagewrapper .rnr-pagewrapper .PdfOffice .main.main.main.rnr-button.disabled
+{
+background-image: none; background-color: #333333;
+border-color: #FE4F29;color: #FFFFFF;
+
+}
